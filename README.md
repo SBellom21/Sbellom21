@@ -31,9 +31,10 @@ I enjoy turning ideas into real projects, focusing on writing clean, scalable, a
 
 ![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sbellom21&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sbellom21&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sbellom21&theme=tokyonight&border_radius=5)
+## 🌟 Featured Repositories
+Check out some of my pinned projects below or explore all my repositories 👇  
+🔗 [View all repositories →](https://github.com/Sbellom21?tab=repositories)
 
 
 
