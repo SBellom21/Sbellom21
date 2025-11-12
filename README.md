@@ -36,7 +36,13 @@ I enjoy turning ideas into real projects, focusing on writing clean, scalable, a
 Check out some of my pinned projects below or explore all my repositories 👇  
 🔗 [View all repositories →](https://github.com/Sbellom21?tab=repositories)
 
+## 📬 Connect with Me
 
+<p align="center">
+  <a href="mailto:santiagobellorealmadrid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sbellom@unal.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ santiago-bello-02b2a1245"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <!--
 **SBellom21/Sbellom21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
